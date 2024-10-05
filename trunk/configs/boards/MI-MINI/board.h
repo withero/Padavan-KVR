@@ -8,7 +8,7 @@
 #define BOARD_MODEL_URL		"http://www.mi.com/miwifimini"
 #define BOARD_BOOT_TIME		25
 #define BOARD_FLASH_TIME	120
-#define BOARD_GPIO_BTN_RESET	30
+#define BOARD_GPIO_BTN_RESET	13
 #undef  BOARD_GPIO_BTN_WPS
 #undef  BOARD_GPIO_LED_ALL
 #undef  BOARD_GPIO_LED_WIFI
